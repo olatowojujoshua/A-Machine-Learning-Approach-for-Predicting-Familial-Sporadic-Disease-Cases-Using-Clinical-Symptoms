@@ -1,0 +1,2 @@
+# A-Machine-Learning-Approach-for-Predicting-Familial-Sporadic-Disease-Cases-Using-Clinical-Symptoms
+This project builds and evaluates machine learning models that classify disease cases as Familial or Sporadic based on routinely collected clinical features. The goal is to support early risk stratification and guide clinical decision-making, especially in settings where genetic testing is limited or delayed.
